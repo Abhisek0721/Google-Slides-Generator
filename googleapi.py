@@ -28,9 +28,7 @@ get_creds_cache = {}
 # Function to load service account credentials from a JSON file
 def get_cred():
     # path = '../creds/service-creds.json'
-    current_file = os.path.dirname(__file__)
-    parent_dir = os.path.dirname(current_file)
-    creds_dir = os.path.join(parent_dir, 'creds')
+    creds_dir = os.path.join(os.getcwd(), 'creds')
     creds_path = os.path.join(creds_dir, 'service-creds.json')
     with open(creds_path, 'r') as f:
         dic = json.load(f)

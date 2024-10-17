@@ -563,7 +563,7 @@ def results_to_slides(clients, config, vers):
     # Put config titles in a list of X lists with the X category
     # For each title, built the dataset of categories
     slides_titles_list = config.slides_titles.split('\n')
-    slides_subtitles_list = config.getslides_subtitles.split('\n')
+    slides_subtitles_list = config.slides_subtitles.split('\n')
     slides_introductions = config.slides_introductions.replace('\n\n','\n').split('\n')
     results_enabled_str = config.intel_results_enabled
     results_enabled = results_enabled_str.split(',')

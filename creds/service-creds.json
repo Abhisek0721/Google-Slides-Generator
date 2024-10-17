@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "legal-docs-simplifier",
+    "private_key_id": "c93fbfae998c943ad398194c6bfe539abf3af278",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDSydtRnOfo1qwD\n4QF4m6d4urPB228DnJKwcibUBzJprcF3aXVjb7rgkWtNeOE90QQ3KqfuWSOo5RU0\nMc7pKlKGX6g9p20DuPqRbrbfd46SHWPAy1pud1P9CMP3/hm1Q9EAApLzIcUp+fUV\nGN3COuj2wm+TnPbBFgr8YMEHCVI28twGUY6ujGggcOVl8BVmfCstEQKzHqPzpjOT\nnr1jB/8Y3a/W9LJksNE30poQYRNMhg4yWD7U/nPONULhXjBdAEFOFTJCsG3KxAU5\nw2Qo7oFOLzzwSvVQTpEIlPPMZIZRlyty+DwA+UL66vduUzyDvQY5ps49L4HP4PQL\nd+jG1fZ1AgMBAAECgf8rWXR6KZ/5wosiefj+JWOSyqzOZZACFm7SHRmJzTN5PHbU\nTCMC0CI7DNxn+qhE7RF6WefaBQk4rgoIYVJgTANN9I2gRkTng9KuyjdM9raGCkxh\n0GbgWnEpBak0xC5V5McuZAPLIpPWxweIZuVaNyuVgOJxauSpmBMSm0UXRREZ5iNB\nZ2k3Xq94ZVWadP7wDuXcE4AZ94nUFwY8S/woGoESqfidOUHqQ6xKa1IEMGXOsZlM\nrCEkv4ESpYQfmXCyGNVUhAfFXOXfIViY5cQowwQaHwNvY1wECoTr7SG4m+a/uvVf\nDZiZGiuYunAGxz4ew0lYIQXFGYUTNMv2Vu5cv3ECgYEA8SS1tTSKiPsQe9Ch2FjK\nYzAyktSVWuayWVosRUmTxhK+Vy86ZkveNjnhMs215CaAh0iuG+LMrhtSfaHLpKyH\njloAq6iUO0rYbka7MtuElrbRJSm3oUMSBhAAwxq+Fkdu+r5GawPPthsLBsjmr9N5\nCNA7hks7OOsoAVIHFFki1akCgYEA38ZkeOc3vyWFj38WjuBopykHAfXWOZElX3C0\nTQOArWfQnLppEeIPDEWfAv4ZGQO4RgXKcrie0dNKKSWeNlT770c0uFqbVL9a/46G\n65noB1kE7S4/JOJ/i/aAqUTI9bpd1uLr9uIsv2n1NGHrpWeSbF4fwARzGdm33GJV\nhjAMge0CgYA3/qA7DZJFsJbpSU7rn+KPGbgEpFxyGTO8z9WL2UP5MI0GTa8v5doZ\nmWMTmvTrn40k3NmhHA8PNsT260UQXge0JG4XbjPNeNm88auyaYrmPFlgWcmMJrje\ns4SZyXHuVnQMwXY0j1QCI1FyJ+B5X4+xXjkUPA/qbaCCffuq2+/c0QKBgQCKAM77\npRTDJD+/JFBkIs9Hr8yrj9HixLm4p0f6atuTlX+Y+HlN1w0Ss2kCLnSJ8bpWLMIS\nh/siSdzljVaKCVUp1s8TloVO+YgELQDWEZ9/0I1yPGAivjCMv6PPQCVzLdErcdy1\n7/xKu+zFtlHeOwaZIF8SS2w0mAmEt3wo+j7sbQKBgQCdxoDwKC+8Wvmotv1xygFl\nJz9O/2lk5jjNYIEH1Nfx7eQ9XeIUH3I4xXou0M5PGIog+DuPSJhf4oV5Wsqq1kHi\nIep7Emq1r91GGnp3L/wHUrU74tW2oe7bh0tAbJqlUgS/ML2IhwzXNm/o1rl2VL2y\nI2FH7+bJUpSZveLevXu/mg==\n-----END PRIVATE KEY-----\n",
+    "client_email": "presentation-generator@legal-docs-simplifier.iam.gserviceaccount.com",
+    "client_id": "102709186712817444436",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/presentation-generator%40legal-docs-simplifier.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
